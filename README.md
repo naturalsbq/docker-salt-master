@@ -6,4 +6,4 @@
 docker run --name salt-master 
 -v /etc/salt 
 -p 4505:4505 -p 4506:4506 
--d sunbingqian/salt-master:2016.11
+-d naturalsbq/salt-master:2016.11
